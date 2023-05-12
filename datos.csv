@@ -1,0 +1,5 @@
+Nombre,A_paterno,A_materno,Correo,Movil,Leer,Musica,Videojuegos,Estado,Ocupacion
+Pablo,Gimenez,Garcia,@hotmail.com,34566346,False,True,True,Sonora,Empleado
+Juan,Lopez,Gomez,@gmail.com,365435657,False,True,False,Tlaxcala,Estudiante
+Ivan,Marquez,Trejo,@gmail.com,34435356,False,True,False,Colima,Estudiante
+Carlos,Perales,Gomez,@hotmail.com,36435646,False,True,False,Puebla,Estudiante
